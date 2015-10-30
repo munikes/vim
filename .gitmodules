@@ -16,9 +16,6 @@
 [submodule "bundle/command-t"]
 	path = bundle/command-t
 	url = https://github.com/wincent/Command-T.git
-[submodule "pyflakes-pathogen"]
-	path = pyflakes-pathogen
-	url = https://github.com/mitechie/pyflakes-pathogen.git
 [submodule "bundle/ack"]
 	path = bundle/ack
 	url = https://github.com/mileszs/ack.vim.git
@@ -49,6 +46,12 @@
 [submodule "bundle/minibufexpl"]
 	path = bundle/minibufexpl
 	url = https://github.com/fholgado/minibufexpl.vim.git
-[submodule "pathogen.vim"]
-	path = pathogen.vim
+[submodule "bundle/pathongen.vim"]
+	path = bundle/pathongen.vim
 	url = https://github.com/vim-scripts/pathogen.vim.git
+[submodule "bundle/pyflakes-pathogen"]
+	path = bundle/pyflakes-pathogen
+	url = https://github.com/mitechie/pyflakes-pathogen.git
+[submodule "bundle/vim-bclose"]
+	path = bundle/vim-bclose
+	url = https://github.com/rbgrouleff/bclose.vim.git
