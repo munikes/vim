@@ -52,3 +52,6 @@
 [submodule "bundle/vim-bclose"]
 	path = bundle/vim-bclose
 	url = https://github.com/rbgrouleff/bclose.vim.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
