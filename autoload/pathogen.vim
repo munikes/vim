@@ -1,0 +1,1 @@
+/home/diego/.vim/bundle/pathongen.vim/autoload/pathogen.vim
