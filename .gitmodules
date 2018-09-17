@@ -64,3 +64,6 @@
 [submodule "bundle/typescript-vim"]
 	path = bundle/typescript-vim
 	url = https://munikes@github.com/leafgarland/typescript-vim.git
+[submodule "vim-easytags"]
+	path = vim-easytags
+	url = https://github.com/xolox/vim-easytags.git
