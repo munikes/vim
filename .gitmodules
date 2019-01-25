@@ -1,66 +1,66 @@
 [submodule "bundle/snipmate"]
 	path = bundle/snipmate
-	url = https://github.com/msanders/snipmate.vim.git
+	url = git@gitlab.com:msanders/snipmate.vim.git
 [submodule "bundle/surround"]
 	path = bundle/surround
-	url = https://github.com/tpope/vim-surround.git
+	url = git@gitlab.com:tpope/vim-surround.git
 [submodule "bundle/git"]
 	path = bundle/git
-	url = https://github.com/tpope/vim-git.git
+	url = git@gitlab.com:tpope/vim-git.git
 [submodule "bundle/supertab"]
 	path = bundle/supertab
-	url = https://github.com/ervandew/supertab.git
+	url = git@gitlab.com:ervandew/supertab.git
 [submodule "bundle/ack"]
 	path = bundle/ack
-	url = https://github.com/mileszs/ack.vim.git
+	url = git@gitlab.com:mileszs/ack.vim.git
 [submodule "bundle/gundo"]
 	path = bundle/gundo
-	url = https://github.com/sjl/gundo.vim.git
+	url = git@gitlab.com:sjl/gundo.vim.git
 [submodule "bundle/pydoc"]
 	path = bundle/pydoc
-	url = https://github.com/fs111/pydoc.vim.git
+	url = git@gitlab.com:fs111/pydoc.vim.git
 [submodule "bundle/pep8"]
 	path = bundle/pep8
-	url = https://github.com/vim-scripts/pep8.git
+	url = git@gitlab.com:vim-scripts/pep8.git
 [submodule "bundle/py.test"]
 	path = bundle/py.test
-	url = https://github.com/alfredodeza/pytest.vim.git
+	url = git@gitlab.com:alfredodeza/pytest.vim.git
 [submodule "bundle/makegreen"]
 	path = bundle/makegreen
-	url = https://github.com/reinh/vim-makegreen
+	url = git@gitlab.com:reinh/vim-makegreen
 [submodule "bundle/tasklist"]
 	path = bundle/tasklist
-	url = https://github.com/vim-scripts/TaskList.vim.git
+	url = git@gitlab.com:vim-scripts/TaskList.vim.git
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
-	url = https://github.com/vim-scripts/The-NERD-tree.git
+	url = git@gitlab.com:vim-scripts/The-NERD-tree.git
 [submodule "bundle/ropevim"]
 	path = bundle/ropevim
-	url = https://github.com/klen/rope-vim.git
+	url = git@gitlab.com:klen/rope-vim.git
 [submodule "bundle/minibufexpl"]
 	path = bundle/minibufexpl
-	url = https://github.com/fholgado/minibufexpl.vim.git
+	url = git@gitlab.com:fholgado/minibufexpl.vim.git
 [submodule "bundle/pathongen.vim"]
 	path = bundle/pathongen.vim
-	url = https://github.com/vim-scripts/pathogen.vim.git
+	url = git@gitlab.com:vim-scripts/pathogen.vim.git
 [submodule "bundle/pyflakes-pathogen"]
 	path = bundle/pyflakes-pathogen
-	url = https://github.com/mitechie/pyflakes-pathogen.git
+	url = git@gitlab.com:mitechie/pyflakes-pathogen.git
 [submodule "bundle/vim-bclose"]
 	path = bundle/vim-bclose
-	url = https://github.com/rbgrouleff/bclose.vim.git
+	url = git@gitlab.com:rbgrouleff/bclose.vim.git
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
-	url = https://github.com/scrooloose/syntastic.git
+	url = git@gitlab.com:scrooloose/syntastic.git
 [submodule "bundle/vdebug"]
 	path = bundle/vdebug
-	url = https://github.com/joonty/vdebug
+	url = git@gitlab.com:joonty/vdebug
 [submodule "bundle/vim-solidity"]
 	path = bundle/vim-solidity
-	url = https://github.com/tomlion/vim-solidity.git
+	url = git@gitlab.com:tomlion/vim-solidity.git
 [submodule "bundle/typescript-vim"]
 	path = bundle/typescript-vim
-	url = https://munikes@github.com/leafgarland/typescript-vim.git
+	url = git@gitlab.com:leafgarland/typescript-vim.git
 [submodule "vim-easytags"]
 	path = vim-easytags
-	url = https://github.com/xolox/vim-easytags.git
+	url = git@gitlab.com:xolox/vim-easytags.git
